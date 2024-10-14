@@ -1,5 +1,5 @@
-const area_circle = () =>{
-    let radius = (5)
+const area_circle = (variable) =>{
+    let radius = (variable)
     PI = 3.14159
     console.log
 }
