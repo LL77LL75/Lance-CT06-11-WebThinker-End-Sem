@@ -1,5 +1,5 @@
 const area_circle = () =>{
-    let radius = (get)
+    let radius = (getElementById())
     PI = 3.14159
     console.log(radius*PI)
 }
