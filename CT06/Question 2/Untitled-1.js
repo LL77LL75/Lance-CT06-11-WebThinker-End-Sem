@@ -1,3 +1,4 @@
 const area_circle = () =>{
-    let radius
+    let radius = 5
+    
 }
